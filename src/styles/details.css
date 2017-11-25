@@ -1,0 +1,79 @@
+.resume-details{
+  display: flex;
+}
+.resume-details .personal-details{
+  background-color: white;
+  width: 500px;
+  padding: 25px 50px 25px 100px;
+}
+.heading{
+  font-size: 18px;
+  line-height: 40px;
+  color: #028cd5;
+  font-weight: bold;
+}
+.details{
+  border-bottom: 1px solid #e7e7e7;
+  display: flex;
+  line-height: 40px;
+}
+.details .title{
+  font-weight: bold;
+  width: 120px;
+}
+.details .name{
+
+}
+.tech{
+  padding: 10px 0;
+}
+.tech div{
+  line-height: 10px;
+}
+.others-details{
+  line-height: 24px;
+}
+progress {
+  background-color: #f3f3f3;
+  height: 4px;
+  width: 100%;
+}
+progress[value]::-webkit-progress-bar {
+  background-color: #ffc107;
+}
+progress::-webkit-progress-value {
+	background-color: #028cd5;
+}
+
+progress::-moz-progress-bar {
+	background-color: #028cd5;
+}
+
+.resume-details .work-details{
+  width: 100%;
+  padding: 25px 100px 25px 50px;
+}
+.resume-details .work-details .work-section{
+  border-left: 2px solid #028cd5;
+  padding: 0 25px;
+  margin: 10px 0;
+}
+
+.resume-details .work-details .work-section .dot{
+  position: relative;
+  right: 31px;
+  bottom: 8px;
+}
+.resume-details .work-details .work-section .work{
+  position: relative;
+  bottom: 20px;
+}
+.work .work-title{
+  font-size: 18px
+}
+.work .work-year{
+  font-size: 18px
+}
+.work .work-des{
+
+}

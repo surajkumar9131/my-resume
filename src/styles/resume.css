@@ -1,0 +1,31 @@
+.resume-section{
+  background-color: #028cd5;
+  height: 50px;
+  width: 100%;
+  color: white;
+}
+.resume-section .my-resume{
+  background-color: #999;
+}
+.resume-section .my-resume .resume-heading{
+  background-color: #0aa6e1;
+  padding: 50px 100px;
+  /*box-shadow: 0 0 6px 0 rgba(0,0,0,.2);*/
+  /*box-shadow: 0px 0px 8px 2px #000000;*/
+  box-shadow: 0 5px 8px -4px rgba(0,0,0,.2);
+}
+.resume-section .my-resume .resume-heading .my-name{
+  font-size: 28px;
+  font-weight: bold;
+}
+.resume-section .my-resume .resume-heading .designation{
+  font-size: 18px;
+}
+.resume-section .my-resume .summary{
+  padding: 25px 100px;
+  letter-spacing: 1px;
+  line-height: 24px;
+}
+.my-details{
+  color: #333;
+}
