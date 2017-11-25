@@ -84,10 +84,6 @@ class Details extends Component {
               <progress value="80" max="100"></progress>
             </div>
             <div className="tech">
-              <div>AngularJS</div>
-              <progress value="80" max="100"></progress>
-            </div>
-            <div className="tech">
               <div>Bootstrap</div>
               <progress value="80" max="100"></progress>
             </div>

@@ -11,8 +11,8 @@ class Home extends Component {
         <div className="main">
         <div className="text">
         <div id="main-text">
-          <h1>ggjddfja fadfgakdf</h1>
-            <p>msdfad avdfa hagfdja hgajda ajdgk jhad</p>
+          <h1>SURAJ KUMAR</h1>
+          <p>Frontend Wed Developer / Web Designer</p>
         </div>
         </div>
         </div>
