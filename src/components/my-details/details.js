@@ -210,6 +210,21 @@ class Details extends Component {
                   Design posters, banners, Facebook post for marketing.
                 </div>
               </div>
+              <div className="dot">&#9679;</div>
+              <div className="work">
+                <div className="work-year">
+                    Before 2016
+                </div>
+                <div className="work-title">
+                    Web design, Graphic design and coding during college
+                </div>
+                <div className="work-des">
+                  Design wireframes of internal panel for Upload and Update data for Website and App.<br></br>
+                  UI Design and Development of Internal Panel for Upload and Update data for Website and App.<br></br>
+                  Develop Drip Marketing Mailers & Campaign Mailers for mass mailing<br></br>
+                  Design posters, banners, Facebook post for marketing.
+                </div>
+              </div>
 
             </div>
 

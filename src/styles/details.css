@@ -10,7 +10,8 @@
   font-size: 18px;
   line-height: 40px;
   color: #028cd5;
-  font-weight: bold;
+  font-family: 'SourceSansPro';
+  letter-spacing: 1px;
 }
 .details{
   border-bottom: 1px solid #e7e7e7;
@@ -18,7 +19,7 @@
   line-height: 40px;
 }
 .details .title{
-  font-weight: bold;
+  font-family: 'SourceSansPro';
   width: 120px;
 }
 .details .name{
@@ -66,14 +67,17 @@ progress::-moz-progress-bar {
 }
 .resume-details .work-details .work-section .work{
   position: relative;
-  bottom: 20px;
+  bottom: 25px;
 }
 .work .work-title{
-  font-size: 18px
+  font-size: 18px;
+  font-family: 'SourceSansPro';
 }
 .work .work-year{
-  font-size: 18px
+  font-size: 18px;
+  font-family: 'SourceSansPro';
 }
 .work .work-des{
-
+  padding: 5px 0 10px 0;
+  line-height: 22px;
 }

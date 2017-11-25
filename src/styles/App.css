@@ -3,6 +3,7 @@ body {
   color: #333;
   background: #e3e3e3;
   font-size: 16px;
+  font-family: 'SourceSansPro Light';
 }
 
 .index img {
@@ -19,4 +20,31 @@ body {
   border: 1px solid #000;
   border-width: 1px 0;
   background: #666;
+}
+@font-face {
+     font-family: 'SourceSansPro-Bold';
+     font-style: normal;
+     font-weight: 400;
+     src: url(/fonts/SourceSansPro/SourceSansPro-Bold.ttf) format('truetype');
+}
+
+@font-face {
+     font-family: 'SourceSansPro Light';
+     font-style: normal;
+     font-weight: 400;
+     src: url(/fonts/SourceSansPro/SourceSansPro-Light.ttf) format('truetype');
+}
+
+@font-face {
+     font-family: 'SourceSansPro';
+     font-style: normal;
+     font-weight: 400;
+     src: url(/fonts/SourceSansPro/SourceSansPro-Regular.ttf) format('truetype');
+}
+
+@font-face {
+     font-family: 'SourceSansPro Semibold';
+     font-style: normal;
+     font-weight: 400;
+     src: url(/fonts/SourceSansPro/SourceSansPro-Semibold.ttf) format('truetype');
 }
